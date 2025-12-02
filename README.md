@@ -749,9 +749,5 @@ This project is developed for **academic purposes** as part of the OODP-II cours
 
 ---
 
-<div align="center">
 
 
-*"Good food is good mood - delivered to your doorstep!"*
-
-</div>
