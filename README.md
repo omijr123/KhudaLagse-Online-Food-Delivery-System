@@ -695,10 +695,9 @@ public class PDFService {
 
 | Name | ID | Contribution |
 |------|----|--------------|
-| [Your Name] | [Your ID] | Project Lead, Database Design, Order Management |
-| [Team Member 1] | [ID] | User Authentication, GUI Design |
-| [Team Member 2] | [ID] | Restaurant Management, PDF Generation |
-| [Team Member 3] | [ID] | Admin Dashboard, Reporting System |
+| [Jablay Noor Rahman] | [2254901093] | Project Lead, Database Design, Order Management, User Authentication |
+| [Prithviraj Chowdhury] | [2254901101] | Restaurant Management, PDF Generation, , GUI Design |
+| [Gazi Mohammad Abrar Zawad] | [2254901049] | Admin Dashboard, Reporting System |
 
 ## 🚀 Future Enhancements
 
