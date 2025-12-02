@@ -89,14 +89,11 @@
 <div align="center">
 
 ### User Interface
-| Login Screen | Restaurant Selection | Food Ordering |
-|--------------|---------------------|---------------|
-| ![Login Screen](https://github.com/user-attachments/assets/f49acfbd-6e5b-43c5-b08f-c2e515512cd0) | ![Restaurant Selection](https://github.com/user-attachments/assets/7e9417ce-c5e4-45a2-a088-99ec2b2ae851) | ![Food Ordering](https://via.placeholder.com/400x250/4CAF50/ffffff?text=Ordering+Interface) |
+| Login Screen | Restaurant Selection | 
+|--------------|---------------------|
+| ![Login Screen](https://github.com/user-attachments/assets/f49acfbd-6e5b-43c5-b08f-c2e515512cd0) | ![Restaurant Selection](https://github.com/user-attachments/assets/7e9417ce-c5e4-45a2-a088-99ec2b2ae851) |
 
-### Management Views
-| Admin Dashboard | Order Management | PDF Invoice |
-|-----------------|------------------|-------------|
-| ![Admin Dashboard](https://via.placeholder.com/400x250/2196F3/ffffff?text=Admin+Dashboard) | ![Order Management](https://via.placeholder.com/400x250/FF9800/ffffff?text=Order+Management) | ![PDF Invoice](https://via.placeholder.com/400x250/795548/ffffff?text=PDF+Bill+Generation) |
+
 
 </div>
 
